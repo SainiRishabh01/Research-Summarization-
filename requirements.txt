@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+requests
+pymupdf
+python-docx
+Pillow
+sentence-transformers
+numpy
+mistralai
+gTTS
+fitz
+# Optional (for voice input/output features)
+streamlit-audiorec
+SpeechRecognition
+pydub
